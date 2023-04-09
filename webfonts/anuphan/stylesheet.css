@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'anuphan';
+    src: url('../../common/fonts/anuphan/subset-Anuphan-Bold.eot');
+    src: url('../../common/fonts/anuphan/subset-Anuphan-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../../common/fonts/anuphan/subset-Anuphan-Bold.woff2') format('woff2'),
+        url('../../common/fonts/anuphan/subset-Anuphan-Bold.woff') format('woff'),
+        url('../../common/fonts/anuphan/subset-Anuphan-Bold.ttf') format('truetype'),
+        url('../../common/fonts/anuphan/subset-Anuphan-Bold.svg#Anuphan-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+
+@font-face {
+    font-family: 'anuphan';
+    src: url('../../common/fonts/anuphan/subset-Anuphan-Regular.eot');
+    src: url('../../common/fonts/anuphan/subset-Anuphan-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../../common/fonts/anuphan/subset-Anuphan-Regular.woff2') format('woff2'),
+        url('../../common/fonts/anuphan/subset-Anuphan-Regular.woff') format('woff'),
+        url('../../common/fonts/anuphan/subset-Anuphan-Regular.ttf') format('truetype'),
+        url('../../common/fonts/anuphan/subset-Anuphan-Regular.svg#Anuphan-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+
+@font-face {
+    font-family: 'anuphan';
+    src: url('../../common/fonts/anuphan/subset-Anuphan-Medium.eot');
+    src: url('../../common/fonts/anuphan/subset-Anuphan-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../../common/fonts/anuphan/subset-Anuphan-Medium.woff2') format('woff2'),
+        url('../../common/fonts/anuphan/subset-Anuphan-Medium.woff') format('woff'),
+        url('../../common/fonts/anuphan/subset-Anuphan-Medium.ttf') format('truetype'),
+        url('../../common/fonts/anuphan/subset-Anuphan-Medium.svg#Anuphan-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+
